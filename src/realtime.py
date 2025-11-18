@@ -1,1 +1,0 @@
-# Real-time detection code placeholder
